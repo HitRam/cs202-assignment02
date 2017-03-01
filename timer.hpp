@@ -1,6 +1,6 @@
 /************************************************************
  *
- * Purpose: To provide an abstraction for time measurementbetween computations
+ * Purpose: To provide an abstraction for time measurement between computations
  *
  * Version : 1.0
  *
